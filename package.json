@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.5.1",
+    "@playwright/test": "^1.37.1"
+  },
+  "scripts": {},
+  "dependencies": {
+    "playwright": "^1.37.1"
+  }
+}
